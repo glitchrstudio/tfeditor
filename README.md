@@ -9,7 +9,7 @@ Upon completion, the software automatically generates a folder that you can plac
 ## Getting Started
 
 Download the latest TF Editor build on [releases page](https://github.com/glitchrstudio/tfeditor/releases) and unzip it anywhere you want. Launch **TF Editor.exe** and start creating.\
-TF Editor is provided with a sample project, feel free to take a look on how an official song has been created.\
+TF Editor is provided with a sample project, feel free to take a look on how an official song has been created.
 > Please note that TF Editor can only run on Windows machines at the moment.
 
 ## Edit metadata
@@ -93,6 +93,6 @@ A complete track consists of:
 
 If your folder is complete, you can now copy it to the game folder:
 - **On Meta Quest**, connect your headset to your PC, enable USB transfer, and place your folder in `Android > data > com.GlitchrStudio.TaikoFrenzy > files > Tracks`
+- **On Steam**, place your folder in `C:\Users\USERNAME\AppData\LocalLow\GlitchrStudio\Taiko Frenzy\Tracks` Replace *USERNAME* with your Windows username
 
 If the **Tracks** folder doesn't exist, you'll need to create it.
-> Please note that only players who have purchased the Founder Pack can make the game detect custom songs
