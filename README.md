@@ -106,6 +106,6 @@ A complete track consists of:
 
 If your folder is complete, you can now copy it to the game folder:
 - **On Meta Quest**, connect your headset to your PC, enable USB transfer, and place your folder in `Android > data > com.GlitchrStudio.TaikoFrenzy > files > Tracks`
-- **On Steam**, place your folder in `C:\Users\USERNAME\AppData\LocalLow\GlitchrStudio\Taiko Frenzy\Tracks` Replace *USERNAME* with your Windows username
+- **On Steam**, place your folder in `C:\Users\USERNAME\AppData\LocalLow\GlitchrStudio\Taiko Frenzy\Tracks` Replace *USERNAME* with your Windows username. The AppData folder might be hidden on Windows, if you don't find it, you can try [showing hidden files](https://www.lifewire.com/find-and-use-the-appdata-folder-in-windows-4771752#:~:text=What%20to%20Know,in%20the%20App%20Data%20folder.) in explorer.
 
 If the **Tracks** folder doesn't exist, you'll need to create it.
