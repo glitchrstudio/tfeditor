@@ -71,6 +71,14 @@ You can scroll through the backtrack using the `mouse wheel` or the playback sli
 
 To create more refined variations across all difficulty levels, it can be beneficial to compare two difficulty levels. To do this, left-click on the difficulty level you want to edit and `right-click` on the difficulty level you want to compare it with.
 
+## Import and convert map files from other games
+
+To speed up your creation process, you can also try to import existing maps from other games such as Beat Saber, Ragnarock and osu! Taiko. TF Editor will attempt to convert it in a Taiko Frenzy compatible format. It will usually work but there might be some case where the conversion provides bad result. We are still working on improving this third party formats support.
+
+![image](https://github.com/glitchrstudio/tfeditor/assets/149059377/552394e0-a0e6-475a-8d02-daf240336688)
+
+> This feature is on an experimental stage right now. As such, you can expect some conversion to fail. Feel free to post an issue on this github so we can investigate.
+
 ## Design guidelines
 
 With our experience on creating all the tracks for Taiko Frenzy, we think that these guidelines might come handy in your level design process:
