@@ -8,7 +8,9 @@ Upon completion, the software automatically generates a folder that you can plac
 
 ## Getting Started
 
-Download the latest TF Editor build on [releases page](https://github.com/glitchrstudio/tfeditor/releases) and unzip it anywhere you want. Launch **TF Editor.exe** and start creating.\
+Download the latest TF Editor build on [releases page](https://github.com/glitchrstudio/tfeditor/releases) and unzip it anywhere you want.\
+On Steam, the TF Editor is already present in the game installation folder.\
+Launch **TF Editor.exe** and start creating.\
 TF Editor is provided with a sample project, feel free to take a look on how an official song has been created.
 > Please note that TF Editor can only run on Windows machines at the moment.
 
@@ -25,8 +27,11 @@ The first thing to do on creating a new track is to fill the song metadata.
 | Mapper name  | Mapper who designed the difficulty notes (optional)  |
 | Version  | Version number for the track, you should increment it each time you change difficulty notes or medal scores |
 | BPM  | Backtrack beats per minute, mandatory because it has impact on the notes grid generation |
-| Time signature  | Amount of beats in one bar (optional)  |
+| Beats per bar  | Amount of beats in one bar (optional)  |
+| Preview time  | Start delay in seconds for the in game preview (optional)  |
 | Song file  | Backtrack audio file used for playback (ogg or wav)  |
+| Cover image  | Cover image for the track (png or jpeg, optional)  |
+| BPM Events  | List of BPM changes with timings (optional)  |
 
 ## Create a difficulty level
 
