@@ -28,8 +28,9 @@ The first thing to do on creating a new track is to fill the song metadata.
 | Version  | Version number for the track, you should increment it each time you change difficulty notes or medal scores |
 | BPM  | Backtrack beats per minute, mandatory because it has impact on the notes grid generation |
 | Beats per bar  | Amount of beats in one bar (optional)  |
-| Preview time  | Start delay in seconds for the in game preview (optional)  |
+| Start offset  | You can tweak this value if you need to better align the beat grid with the song file  |
 | Song file  | Backtrack audio file used for playback (ogg or wav)  |
+| Preview time  | Start delay in seconds for the in game preview (optional)  |
 | Cover image  | Cover image for the track (png or jpeg, optional)  |
 | BPM Events  | List of BPM changes with timings (optional)  |
 
